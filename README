@@ -1,0 +1,5 @@
+# /models/freecad
+This directory contains source files for the 3D models found in /models/print/
+These source files are for your modification to adapt to different screens, boards or batteries.
+All models were designed FreeCAD which is completly free.
+Sorry ahead of time for my poor FreeCAD skills, it's my first design.
